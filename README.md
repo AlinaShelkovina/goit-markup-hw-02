@@ -1,1 +1,2 @@
-# goit-markup-hw-02
+# home_work_1
+HTML\CSS (basic)
