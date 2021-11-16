@@ -76,7 +76,7 @@ body {
   text-decoration: none;
 }
 .contact-header .link:hover,
-.contact-heafer .link:focus {
+.contact-header .link:focus {
   color: var(--accent-color-text);
 }
 
