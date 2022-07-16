@@ -52,7 +52,7 @@ body {
   color: var(--white-color-text);
 }
 
-/* site navigation*/
+/* site navigation */
 .site-nav .link {
   color: var(--second-color-text);
   font-weight: 500;
