@@ -96,6 +96,12 @@ body {
   text-transform: uppercase;
 }
 
+.card-header {
+  font-size: 16px;
+  line-height: 18.75px;
+  text-align: center;
+}
+
 /* section team */
 .section-team {
   background-color: var(--bg-gray);
