@@ -98,9 +98,10 @@ body {
 
 .card-header {
   font-size: 16px;
-  line-height: 18.75px;
+  line-height: 19px;
   text-align: center;
   color: var(--second-color-text);
+  letter-spacing: 0.03em;
 }
 
 /* section team */
