@@ -97,9 +97,9 @@ body {
 }
 
 .card-header {
+  color: var(--second-color-text);
   font-size: 16px;
   line-height: 1.19;
-  color: var(--second-color-text);
   letter-spacing: 0.03em;
   font-weight: 500;
   font-style: normal;
@@ -126,6 +126,7 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
 }
+
 .link-list.text {
   color: var(--main-color-text);
   text-decoration: none;
