@@ -102,6 +102,7 @@ body {
   /* text-align: center; */
   color: var(--second-color-text);
   letter-spacing: 0.03em;
+  font-style: normal;
 }
 
 /* section team */
